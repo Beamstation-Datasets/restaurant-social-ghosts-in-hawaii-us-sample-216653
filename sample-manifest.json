@@ -1,0 +1,12 @@
+{
+  "export_job_id": "44498aea-de2c-4761-967b-88784d4ae7ae",
+  "id_short": 216653,
+  "published_at": "2026-04-11T07:09:21Z",
+  "repo_name": "restaurant-social-ghosts-in-hawaii-us-sample-216653",
+  "sample_asset_name": "beamstation_216653_restaurants-us-hi_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/216653/beamstation_216653_restaurants-us-hi_SAMPLE_DIST.csv",
+  "sample_records": 5,
+  "sample_sha256": "d8ca33f777af398991e267cd39d507e4dc69318132022d5378332ba9100cc773",
+  "sample_size_bytes": 33847,
+  "total_records": 58
+}
